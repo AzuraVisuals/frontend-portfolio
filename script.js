@@ -1,0 +1,1 @@
+console.log("Hi! My frontend journey starts here!")
